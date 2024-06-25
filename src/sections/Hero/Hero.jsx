@@ -59,7 +59,7 @@ function Hero() {
           user-friendly websites.
         </p>
         <a href={CV} download>
-          <button className="hover">Resume</button>
+          <button className="hover">Download CV</button>
         </a>
       </div>
     </section>

@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am currently working as ReactJS intern at Youth IT company
+💻 I am currently working as a intern as ReactJS developer at Youth IT company
 
 
 ## 🌐 Socials:
